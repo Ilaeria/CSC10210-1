@@ -1,0 +1,16 @@
+syntax: glob
+Assignment1Part1/Assignment1Part1/bin/*
+Assignment1Part1/Assignment1Part1/obj/*
+Assignment1Part2/Assignment1Part2/bin/*
+Assignment1Part2/Assignment1Part2/obj/*
+Assignment1Part3/Assignment1Part3/bin/*
+Assignment1Part3/Assignment1Part3/obj/*
+*.uxf
+*.sln
+*2.suo
+*.config
+*.csproj
+*.user
+Assignment1Part1/Assignment1Part1/Version1.cs
+Assignment1Part1/Assignment1Part1/Version2.cs
+Assignment1Part2/Assignment1Part2/Version1.cs
